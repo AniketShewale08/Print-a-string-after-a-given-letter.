@@ -1,4 +1,5 @@
 # Print-a-string-after-a-given-letter.
+
 #Assignment 1
   a. Table
     i. Create an HTML table with 5 columns and 5 rows, with a header row and the first column as SL.No.
@@ -26,4 +27,4 @@
       3. Result: World1
 
 #Assignment 3
-   d. Same as assignment 2 above but should be in Java
+   #d. Same as assignment 2 above but should be in Java
